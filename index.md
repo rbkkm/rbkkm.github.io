@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Mijn Megadocument
+title: Home
+nav_order: 1
+has_children: false
 ---
 
 # Inhoudsopgave
