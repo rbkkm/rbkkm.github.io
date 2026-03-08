@@ -1,5 +1,14 @@
 ---
 layout: default
+title: Mijn Megadocument
+---
+
+# Inhoudsopgave
+{:.no_toc}
+
+* Dit wordt vervangen door de inhoudsopgave
+{:toc}
+
 ---
 # BOOK ONE
 
